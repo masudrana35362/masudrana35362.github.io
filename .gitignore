@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+generate_images.py
+
+# Ignore original PDF (we have a copy in assets)
+Md Masud Rana.pdf
+
+# Ignore git files
+.git/
